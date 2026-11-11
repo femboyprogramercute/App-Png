@@ -1,0 +1,6 @@
+{
+  "name": "PNGtuber Video Editor Studio",
+  "description": "Estudio 2D VTuber (PNGtuber) diseñado para editores de video. Carga tus 4 imágenes, sincroniza con audio o voz y exporta video transparente o pantalla verde listo para CapCut, Premiere y DaVinci.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
